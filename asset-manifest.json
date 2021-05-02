@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sanket-robofriends-react/static/css/main.d24308dc.chunk.css",
+    "main.js": "/sanket-robofriends-react/static/js/main.890da816.chunk.js",
+    "main.js.map": "/sanket-robofriends-react/static/js/main.890da816.chunk.js.map",
+    "runtime-main.js": "/sanket-robofriends-react/static/js/runtime-main.74202a27.js",
+    "runtime-main.js.map": "/sanket-robofriends-react/static/js/runtime-main.74202a27.js.map",
+    "static/css/2.fe359a49.chunk.css": "/sanket-robofriends-react/static/css/2.fe359a49.chunk.css",
+    "static/js/2.92f0c0c6.chunk.js": "/sanket-robofriends-react/static/js/2.92f0c0c6.chunk.js",
+    "static/js/2.92f0c0c6.chunk.js.map": "/sanket-robofriends-react/static/js/2.92f0c0c6.chunk.js.map",
+    "static/js/3.13925142.chunk.js": "/sanket-robofriends-react/static/js/3.13925142.chunk.js",
+    "static/js/3.13925142.chunk.js.map": "/sanket-robofriends-react/static/js/3.13925142.chunk.js.map",
+    "index.html": "/sanket-robofriends-react/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/sanket-robofriends-react/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.d24308dc.chunk.css.map": "/sanket-robofriends-react/static/css/main.d24308dc.chunk.css.map",
+    "static/js/2.92f0c0c6.chunk.js.LICENSE.txt": "/sanket-robofriends-react/static/js/2.92f0c0c6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/sanket-robofriends-react/static/media/Citrica-Regular.47f093f9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74202a27.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.92f0c0c6.chunk.js",
+    "static/css/main.d24308dc.chunk.css",
+    "static/js/main.890da816.chunk.js"
+  ]
+}
